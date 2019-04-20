@@ -19,5 +19,4 @@ public class SpringbootApplicationTests {
 		UserModel userById = userDao.getUserById(1);
 		UserModel userByName = userDao.getUserByName("1");
 	}
-
 }
